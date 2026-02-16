@@ -8,5 +8,5 @@
 
 ##### You can find me on the following platforms
 
-[X](www.x.com/marcuslevy88)
+My Twitter account is [X](https://x.com/marcuslevy88)
 
