@@ -1,5 +1,12 @@
-## Hi there 👋
+## Hello there 👋
 
+### My name is Marcus and I am working through L2C in hopes of getting into cloud/DevOps field.
+#### I am currently working on
+  - networking
+  - bash
+  - python
+
+#### Always looking for new and exciting opportunities 
 <!--
 **madlevy888/madlevy888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
